@@ -1,8 +1,8 @@
 {
   "images": {
-    "icon-small": "https://pbs.twimg.com/profile_images/567774844322713600/tYoVju31.png",
-    "icon-medium": "https://pbs.twimg.com/profile_images/567774844322713600/tYoVju31.png",
-    "icon-large": "https://pbs.twimg.com/profile_images/567774844322713600/tYoVju31.png"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/nginx/icon/ed/5a/ed5ae5a99cfbce2c2bb4bce5ce80b52372b3156c383a1545ce03bec37e7a69fc/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/nginx/icon/ed/5a/ed5ae5a99cfbce2c2bb4bce5ce80b52372b3156c383a1545ce03bec37e7a69fc/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/nginx/icon/ed/5a/ed5ae5a99cfbce2c2bb4bce5ce80b52372b3156c383a1545ce03bec37e7a69fc/large.png"
   },
   "assets": {
     "container": {

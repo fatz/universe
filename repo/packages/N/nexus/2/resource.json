@@ -1,8 +1,8 @@
 {
   "images": {
-    "icon-small": "https://cdn.sonatype.com/brand/logo/nexus-repo-48.png",
-    "icon-medium": "https://cdn.sonatype.com/brand/logo/nexus-repo-96.png",
-    "icon-large": "https://cdn.sonatype.com/brand/logo/nexus-repo-256.png"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/nexus/icon/1a/1c/1a1c27dcb149755344169f43384388fb9de5212890f1a04ce3f08f2a844fb2a9/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/nexus/icon/1a/1c/1a1c27dcb149755344169f43384388fb9de5212890f1a04ce3f08f2a844fb2a9/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/nexus/icon/1a/1c/1a1c27dcb149755344169f43384388fb9de5212890f1a04ce3f08f2a844fb2a9/large.png"
   },
   "assets": {
     "container": {

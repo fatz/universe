@@ -1,13 +1,13 @@
 {
-  "images" : {
-    "icon-small" : "https://downloads.mesosphere.com/marathon/assets/icon-service-marathon-small.png",
-    "icon-medium" : "https://downloads.mesosphere.com/marathon/assets/icon-service-marathon-medium.png",
-    "icon-large" : "https://downloads.mesosphere.com/marathon/assets/icon-service-marathon-large.png"
+  "images": {
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/marathon/icon/cd/16/cd1655ed4b9f00e5628a21d93359159f3eb6b1769bd9cea0e568d8bfd959f6de/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/marathon/icon/cd/16/cd1655ed4b9f00e5628a21d93359159f3eb6b1769bd9cea0e568d8bfd959f6de/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/marathon/icon/cd/16/cd1655ed4b9f00e5628a21d93359159f3eb6b1769bd9cea0e568d8bfd959f6de/large.png"
   },
-  "assets" : {
-    "container" : {
-      "docker" : {
-        "image" : "mesosphere/marathon:v1.5.1.1"
+  "assets": {
+    "container": {
+      "docker": {
+        "image": "mesosphere/marathon:v1.5.1.1"
       }
     }
   }

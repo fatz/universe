@@ -1,8 +1,8 @@
 {
   "images": {
-    "icon-small": "https://storage.googleapis.com/weaveworks-misc-assets/scope-dcos-package/icons/weave-logo-transparent-small.png",
-    "icon-medium": "https://storage.googleapis.com/weaveworks-misc-assets/scope-dcos-package/icons/weave-logo-transparent-medium.png",
-    "icon-large": "https://storage.googleapis.com/weaveworks-misc-assets/scope-dcos-package/icons/weave-logo-transparent-large.png",
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/weavescope/icon/2a/d6/2ad6573df9dc20b495fd34ef5ca34ee901a9287b8f0ee886ec0ddb5462d387bb/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/weavescope/icon/2a/d6/2ad6573df9dc20b495fd34ef5ca34ee901a9287b8f0ee886ec0ddb5462d387bb/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/weavescope/icon/2a/d6/2ad6573df9dc20b495fd34ef5ca34ee901a9287b8f0ee886ec0ddb5462d387bb/large.png",
     "screenshots": [
       "https://storage.googleapis.com/weaveworks-misc-assets/scope-dcos-package/screenshots/1.png",
       "https://storage.googleapis.com/weaveworks-misc-assets/scope-dcos-package/screenshots/2.png",

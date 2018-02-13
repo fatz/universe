@@ -1,9 +1,9 @@
 {
-	"images":{
-		"icon-small":"https://i.imgur.com/oehFsKh.png",
-		"icon-medium":"https://i.imgur.com/nHb8qmx.png",
-		"icon-large": "https://pbs.twimg.com/profile_images/786271812027944960/oJ22hqPY_400x400.jpg"
-	},
+  "images": {
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/scylladb/icon/31/12/3112ccb9209c5ebf01937ae8820cc0c60115007b7120c6f62407c115b266ba2d/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/scylladb/icon/31/12/3112ccb9209c5ebf01937ae8820cc0c60115007b7120c6f62407c115b266ba2d/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/scylladb/icon/31/12/3112ccb9209c5ebf01937ae8820cc0c60115007b7120c6f62407c115b266ba2d/large.png"
+  },
   "assets": {
     "container": {
       "docker": {

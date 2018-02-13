@@ -10,9 +10,9 @@
     }
   },
   "images": {
-    "icon-small": "http://i.imgur.com/FsEREZI.png",
-    "icon-medium": "http://i.imgur.com/1DvX5di.png?1",
-    "icon-large": "http://i.imgur.com/P1mjjGK.png"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/cockroachdb/icon/61/62/6162852f1613713dff6435891d75b6fb5018fb639ee9d4d82edabc08443ef131/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/cockroachdb/icon/61/62/6162852f1613713dff6435891d75b6fb5018fb639ee9d4d82edabc08443ef131/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/cockroachdb/icon/61/62/6162852f1613713dff6435891d75b6fb5018fb639ee9d4d82edabc08443ef131/large.png"
   },
   "cli": {
     "binaries": {

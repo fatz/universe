@@ -7,9 +7,9 @@
     }
   },
   "images": {
-    "icon-small": "https://raw.githubusercontent.com/deric/dcos-cerebro/master/icons/cerebro-small.png",
-    "icon-medium": "https://raw.githubusercontent.com/deric/dcos-cerebro/master/icons/cerebro-medium.png",
-    "icon-large": "https://raw.githubusercontent.com/deric/dcos-cerebro/master/icons/cerebro-large.png",
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/cerebro/icon/e2/54/e2544ad4b207868af02782ce6bd056504625cd4ddd8718119d5d19e7b76803d3/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/cerebro/icon/e2/54/e2544ad4b207868af02782ce6bd056504625cd4ddd8718119d5d19e7b76803d3/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/cerebro/icon/e2/54/e2544ad4b207868af02782ce6bd056504625cd4ddd8718119d5d19e7b76803d3/large.png",
     "screenshots": [
       "https://raw.githubusercontent.com/deric/dcos-cerebro/master/screenshots/overview.png",
       "https://raw.githubusercontent.com/deric/dcos-cerebro/master/screenshots/nodes.png"

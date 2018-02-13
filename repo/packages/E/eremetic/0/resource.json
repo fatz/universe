@@ -1,12 +1,12 @@
 {
-  "images" : {
-    "icon-small" : "https://raw.githubusercontent.com/gisjedi/eremetic/master/dcos/icon-eremetic-small.png",
-    "icon-medium" : "https://raw.githubusercontent.com/gisjedi/eremetic/master/dcos/icon-eremetic-medium.png",
-    "icon-large" : "https://raw.githubusercontent.com/gisjedi/eremetic/master/dcos/icon-eremetic-large.png"
+  "images": {
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/eremetic/icon/ee/c9/eec94ef40ed092ab8ee19fc783082c8aa85a3ac1c73cb498ad1438891bc53646/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/eremetic/icon/ee/c9/eec94ef40ed092ab8ee19fc783082c8aa85a3ac1c73cb498ad1438891bc53646/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/eremetic/icon/ee/c9/eec94ef40ed092ab8ee19fc783082c8aa85a3ac1c73cb498ad1438891bc53646/large.png"
   },
-  "assets" : {
-    "container" : {
-      "docker" : {
+  "assets": {
+    "container": {
+      "docker": {
         "eremetic": "alde/eremetic:0.27.0"
       }
     }

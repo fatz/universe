@@ -17,9 +17,9 @@
     }
   },
   "images": {
-    "icon-small": "https://downloads.mesosphere.com/zookeeper/icon-service-zookeeper-small.png",
-    "icon-medium": "https://downloads.mesosphere.com/zookeeper/icon-service-zookeeper-medium.png",
-    "icon-large": "https://downloads.mesosphere.com/zookeeper/icon-service-zookeeper-large.png"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/beta-kafka-zookeeper/icon/f2/89/f28949171ec02dd36021d849927a9a2b1d983bccc670cae7631d227e1a09d2f6/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/beta-kafka-zookeeper/icon/f2/89/f28949171ec02dd36021d849927a9a2b1d983bccc670cae7631d227e1a09d2f6/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/beta-kafka-zookeeper/icon/f2/89/f28949171ec02dd36021d849927a9a2b1d983bccc670cae7631d227e1a09d2f6/large.png"
   },
   "cli": {
     "binaries": {

@@ -17,9 +17,9 @@
     }
   },
   "images": {
-    "icon-small": "https://raw.githubusercontent.com/portworx/px-dev/master/images/px-small.png",
-    "icon-medium": "https://raw.githubusercontent.com/portworx/px-dev/master/images/px-medium.png",
-    "icon-large": "https://raw.githubusercontent.com/portworx/px-dev/master/images/px-large.png"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/portworx/icon/8f/f9/8ff980fdd27caffcc75875920c0535a1f4f23601b790060e78f6f2057a3aa62f/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/portworx/icon/8f/f9/8ff980fdd27caffcc75875920c0535a1f4f23601b790060e78f6f2057a3aa62f/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/portworx/icon/8f/f9/8ff980fdd27caffcc75875920c0535a1f4f23601b790060e78f6f2057a3aa62f/large.png"
   },
   "cli": {
     "binaries": {

@@ -1,14 +1,14 @@
 {
-  "images" : {
-    "icon-small" : "https://raw.githubusercontent.com/AppliedIS/universe-assets/master/geoserver/icon-small-geoserver.png",
-    "icon-medium" : "https://raw.githubusercontent.com/AppliedIS/universe-assets/master/geoserver/icon-medium-geoserver.png",
-    "icon-large" : "https://raw.githubusercontent.com/AppliedIS/universe-assets/master/geoserver/icon-large-geoserver.png"
+  "images": {
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/geoserver/icon/12/1e/121ebeb879c2320d57c957b6f960b33ad7d8daa272e0571d824bdd3f77a01ec0/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/geoserver/icon/12/1e/121ebeb879c2320d57c957b6f960b33ad7d8daa272e0571d824bdd3f77a01ec0/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/geoserver/icon/12/1e/121ebeb879c2320d57c957b6f960b33ad7d8daa272e0571d824bdd3f77a01ec0/large.png"
   },
-  "assets" : {
-    "container" : {
-      "docker" : {
-        "geoserver-sync" : "appliedis/dcos-geoserver:1.1.0",
-        "geoserver-app" : "appliedis/geoserver:2.10.0"
+  "assets": {
+    "container": {
+      "docker": {
+        "geoserver-sync": "appliedis/dcos-geoserver:1.1.0",
+        "geoserver-app": "appliedis/geoserver:2.10.0"
       }
     }
   }

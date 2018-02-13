@@ -1,8 +1,8 @@
 {
   "images": {
-    "icon-small": "https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAOtAAAAJDg1NjRkMjdhLTU5YTktNDc3OC05Mzg5LWNhYjk0YjBiYjE2NQ.png",
-    "icon-medium": "https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAOtAAAAJDg1NjRkMjdhLTU5YTktNDc3OC05Mzg5LWNhYjk0YjBiYjE2NQ.png",
-    "icon-large": "https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAOtAAAAJDg1NjRkMjdhLTU5YTktNDc3OC05Mzg5LWNhYjk0YjBiYjE2NQ.png",
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/beakerx/icon/24/49/2449dcb416c2e90040fd17ebac1abf7f3f952ea672df402d60dbc7bca71774a6/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/beakerx/icon/24/49/2449dcb416c2e90040fd17ebac1abf7f3f952ea672df402d60dbc7bca71774a6/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/beakerx/icon/24/49/2449dcb416c2e90040fd17ebac1abf7f3f952ea672df402d60dbc7bca71774a6/large.png",
     "screenshots": [
       "https://user-images.githubusercontent.com/963093/28300136-585f9f7c-6b4b-11e7-8827-b5807d3fc9a8.png"
     ]

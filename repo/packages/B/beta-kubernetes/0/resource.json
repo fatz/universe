@@ -8,9 +8,9 @@
     }
   },
   "images": {
-    "icon-small": "https://downloads.mesosphere.com/kubernetes/assets/k8s-small-48x48.png",
-    "icon-medium": "https://downloads.mesosphere.com/kubernetes/assets/k8s-medium-96x96.png",
-    "icon-large": "https://downloads.mesosphere.com/kubernetes/assets/k8s-large-256x256.png"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/beta-kubernetes/icon/bf/3b/bf3b8ada5a4c70082b04f9df8e13e1a9c3a32fba5bcff44b7fa13c1a8e1bdeaa/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/beta-kubernetes/icon/bf/3b/bf3b8ada5a4c70082b04f9df8e13e1a9c3a32fba5bcff44b7fa13c1a8e1bdeaa/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/beta-kubernetes/icon/bf/3b/bf3b8ada5a4c70082b04f9df8e13e1a9c3a32fba5bcff44b7fa13c1a8e1bdeaa/large.png"
   },
   "cli": {
     "binaries": {

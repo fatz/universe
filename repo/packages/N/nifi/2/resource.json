@@ -1,11 +1,11 @@
 {
   "images": {
-    "icon-small": "https://raw.githubusercontent.com/us3r/apache-nifi/master/media/images/nifi_small.png",
-    "icon-medium": "https://raw.githubusercontent.com/us3r/apache-nifi/master/media/images/nifi_medium.png",
-    "icon-large": "https://raw.githubusercontent.com/us3r/apache-nifi/master/media/images/nifi_large.png",
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/nifi/icon/bf/8c/bf8c285b4389ac5f7ca89286853f3ab9b8cc7b1476b08d3c07d662664fe6c29a/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/nifi/icon/bf/8c/bf8c285b4389ac5f7ca89286853f3ab9b8cc7b1476b08d3c07d662664fe6c29a/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/nifi/icon/bf/8c/bf8c285b4389ac5f7ca89286853f3ab9b8cc7b1476b08d3c07d662664fe6c29a/large.png",
     "screenshots": [
-     "https://raw.githubusercontent.com/us3r/apache-nifi/master/media/screenshots/screen1.png",
-     "https://raw.githubusercontent.com/us3r/apache-nifi/master/media/screenshots/screen2.png"
+      "https://raw.githubusercontent.com/us3r/apache-nifi/master/media/screenshots/screen1.png",
+      "https://raw.githubusercontent.com/us3r/apache-nifi/master/media/screenshots/screen2.png"
     ]
   },
   "assets": {

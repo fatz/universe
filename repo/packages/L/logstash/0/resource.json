@@ -1,8 +1,8 @@
 {
   "images": {
-    "icon-small": "https://downloads.mesosphere.com/universe/assets/icon-service-logstash-small.png",
-    "icon-medium": "https://downloads.mesosphere.com/universe/assets/icon-service-logstash-medium.png",
-    "icon-large": "https://downloads.mesosphere.com/universe/assets/icon-service-logstash-large.png"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/logstash/icon/d9/4c/d94c4a891b3fc095454cb1f6466dcf5660041c706db648cf8657d1ff100c3dac/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/logstash/icon/d9/4c/d94c4a891b3fc095454cb1f6466dcf5660041c706db648cf8657d1ff100c3dac/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/logstash/icon/d9/4c/d94c4a891b3fc095454cb1f6466dcf5660041c706db648cf8657d1ff100c3dac/large.png"
   },
   "assets": {
     "container": {

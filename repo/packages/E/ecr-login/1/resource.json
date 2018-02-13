@@ -7,8 +7,8 @@
     }
   },
   "images": {
-    "icon-small": "https://raw.githubusercontent.com/adobe-platform/aws-ecr-login/master/icons/icon-service-ecr-login-small.png",
-    "icon-medium": "https://raw.githubusercontent.com/adobe-platform/aws-ecr-login/master/icons/icon-service-ecr-login-medium.png",
-    "icon-large": "https://raw.githubusercontent.com/adobe-platform/aws-ecr-login/master/icons/icon-service-ecr-login-large.png"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/ecr-login/icon/0a/1d/0a1d39f9d65e4dff79b8a46c7bda9815a544941af490aa89c17efe2f64eb42d8/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/ecr-login/icon/0a/1d/0a1d39f9d65e4dff79b8a46c7bda9815a544941af490aa89c17efe2f64eb42d8/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/ecr-login/icon/0a/1d/0a1d39f9d65e4dff79b8a46c7bda9815a544941af490aa89c17efe2f64eb42d8/large.png"
   }
 }

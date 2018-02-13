@@ -1,8 +1,8 @@
 {
   "images": {
-    "icon-small": "https://cloud.githubusercontent.com/assets/410147/17726269/936fd07a-646f-11e6-8ffa-ff3d0a1b4b15.png",
-    "icon-medium": "https://cloud.githubusercontent.com/assets/410147/17726265/919cbaf6-646f-11e6-8f3c-114245c4b7f4.png",
-    "icon-large": "https://cloud.githubusercontent.com/assets/410147/17726266/919d81ca-646f-11e6-8c7c-7bc91c11d1f5.png"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/mariadb/icon/f9/4c/f94cef59b82bd6deceea5a8a8100c7d6e0fa6a18af815a62060927a63b2ef456/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/mariadb/icon/f9/4c/f94cef59b82bd6deceea5a8a8100c7d6e0fa6a18af815a62060927a63b2ef456/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/mariadb/icon/f9/4c/f94cef59b82bd6deceea5a8a8100c7d6e0fa6a18af815a62060927a63b2ef456/large.png"
   },
   "assets": {
     "container": {

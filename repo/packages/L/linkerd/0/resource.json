@@ -1,8 +1,8 @@
 {
   "images": {
-    "icon-small": "https://linkerd.io/images/dcos/linkerd-logo-small.png",
-    "icon-medium": "https://linkerd.io/images/dcos/linkerd-logo-medium.png",
-    "icon-large": "https://linkerd.io/images/dcos/linkerd-logo-large.png",
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/linkerd/icon/43/d9/43d90356cd1179e0842aa0bb0346d8f0857ca62e891952a9627419615c0bd1c1/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/linkerd/icon/43/d9/43d90356cd1179e0842aa0bb0346d8f0857ca62e891952a9627419615c0bd1c1/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/linkerd/icon/43/d9/43d90356cd1179e0842aa0bb0346d8f0857ca62e891952a9627419615c0bd1c1/large.png",
     "screenshots": [
       "https://linkerd.io/images/dcos/linkerd-screenshot.png"
     ]

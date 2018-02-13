@@ -1,8 +1,8 @@
 {
   "images": {
-    "icon-small": "http://i.imgur.com/QGc420u.png",
-    "icon-medium": "http://i.imgur.com/QGc420u.png",
-    "icon-large": "http://i.imgur.com/QGc420u.png"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/bitbucket/icon/35/28/35280245b74d6a05a6115d8abb15a8097a4fa1b198233245937a24dbcb0a1795/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/bitbucket/icon/35/28/35280245b74d6a05a6115d8abb15a8097a4fa1b198233245937a24dbcb0a1795/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/bitbucket/icon/35/28/35280245b74d6a05a6115d8abb15a8097a4fa1b198233245937a24dbcb0a1795/large.png"
   },
   "assets": {
     "container": {

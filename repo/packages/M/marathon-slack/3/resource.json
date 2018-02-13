@@ -7,8 +7,8 @@
     }
   },
   "images": {
-    "icon-small": "https://www.sharelytics.de/assets/img/marathon-slack/marathon-slack_48.png",
-    "icon-medium": "https://www.sharelytics.de/assets/img/marathon-slack/marathon-slack_96.png",
-    "icon-large": "https://www.sharelytics.de/assets/img/marathon-slack/marathon-slack_256.png"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/marathon-slack/icon/47/04/4704b9d97dd2823dfdf12fc45ace0acdb41eecb9bc525a250d4aaf02a3f20251/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/marathon-slack/icon/47/04/4704b9d97dd2823dfdf12fc45ace0acdb41eecb9bc525a250d4aaf02a3f20251/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/marathon-slack/icon/47/04/4704b9d97dd2823dfdf12fc45ace0acdb41eecb9bc525a250d4aaf02a3f20251/large.png"
   }
 }

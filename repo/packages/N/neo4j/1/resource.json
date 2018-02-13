@@ -1,8 +1,8 @@
 {
   "images": {
-    "icon-small": "https://s3.amazonaws.com/downloads.mesosphere.io/universe/assets/icon-service-neo4j-small.png",
-    "icon-medium": "https://s3.amazonaws.com/downloads.mesosphere.io/universe/assets/icon-service-neo4j-medium.png",
-    "icon-large": "https://s3.amazonaws.com/downloads.mesosphere.io/universe/assets/icon-service-neo4j-large.png"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/neo4j/icon/ca/b9/cab958a701d58cb21d67a25527d552b7767f2ac480eadcc71f53b9700befa560/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/neo4j/icon/ca/b9/cab958a701d58cb21d67a25527d552b7767f2ac480eadcc71f53b9700befa560/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/neo4j/icon/ca/b9/cab958a701d58cb21d67a25527d552b7767f2ac480eadcc71f53b9700befa560/large.png"
   },
   "assets": {
     "container": {

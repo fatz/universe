@@ -7,8 +7,8 @@
     }
   },
   "images": {
-    "icon-small": "https://files.serv.sh/packages/clair/icons/clair_48x48.png",
-    "icon-medium": "https://files.serv.sh/packages/clair/icons/clair_96x96.png",
-    "icon-large": "https://files.serv.sh/packages/clair/icons/clair_256x256.png"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/clair/icon/bd/d8/bdd86d5cddf98634e49763be98f941a21f4556ac6e01c9052402bc1a9c976319/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/clair/icon/bd/d8/bdd86d5cddf98634e49763be98f941a21f4556ac6e01c9052402bc1a9c976319/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/clair/icon/bd/d8/bdd86d5cddf98634e49763be98f941a21f4556ac6e01c9052402bc1a9c976319/large.png"
   }
 }

@@ -6,8 +6,8 @@
     }
   },
   "images": {
-    "icon-small": "https://downloads.mesosphere.com/universe/assets/icon-service-crate-small.png",
-    "icon-medium": "https://downloads.mesosphere.com/universe/assets/icon-service-crate-medium.png",
-    "icon-large": "https://downloads.mesosphere.com/universe/assets/icon-service-crate-large.png"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/crate/icon/6b/64/6b6428fba0bdec6f121f94da2c994cdb7f02cf30a55e079011f7427b570bde53/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/crate/icon/6b/64/6b6428fba0bdec6f121f94da2c994cdb7f02cf30a55e079011f7427b570bde53/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/crate/icon/6b/64/6b6428fba0bdec6f121f94da2c994cdb7f02cf30a55e079011f7427b570bde53/large.png"
   }
 }

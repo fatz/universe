@@ -1,8 +1,8 @@
 {
   "images": {
-    "icon-small": "https://raw.githubusercontent.com/mesos/mr-redis/master/logo-small.png",
-    "icon-medium":"https://raw.githubusercontent.com/mesos/mr-redis/master/logo-mid.png",
-    "icon-large": "https://raw.githubusercontent.com/mesos/mr-redis/master/logo-large.png"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/mr-redis/icon/07/8e/078e1c605f16dd2a5f07a32c5e192cd27f76453acc8dd349e1411c28895c799f/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/mr-redis/icon/07/8e/078e1c605f16dd2a5f07a32c5e192cd27f76453acc8dd349e1411c28895c799f/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/mr-redis/icon/07/8e/078e1c605f16dd2a5f07a32c5e192cd27f76453acc8dd349e1411c28895c799f/large.png"
   },
   "assets": {
     "container": {

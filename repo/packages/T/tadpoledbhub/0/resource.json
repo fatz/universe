@@ -1,8 +1,8 @@
 {
   "images": {
-    "icon-small": "https://raw.githubusercontent.com/hangum/TadpoleForDBTools/master/com.hangum.tadpole.chromeapp/chrome_app/icon_16.png",
-    "icon-medium": "https://raw.githubusercontent.com/hangum/TadpoleForDBTools/master/com.hangum.tadpole.chromeapp/chrome_app/icon_48.png",
-    "icon-large": "https://raw.githubusercontent.com/hangum/TadpoleForDBTools/master/com.hangum.tadpole.chromeapp/chrome_app/icon_128.png"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/tadpoledbhub/icon/a2/6a/a26a20fd71fb4ab15b8675bb03e7c44b5c88161aba706b5d774f1a18659cc9f5/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/tadpoledbhub/icon/a2/6a/a26a20fd71fb4ab15b8675bb03e7c44b5c88161aba706b5d774f1a18659cc9f5/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/tadpoledbhub/icon/a2/6a/a26a20fd71fb4ab15b8675bb03e7c44b5c88161aba706b5d774f1a18659cc9f5/large.png"
   },
   "assets": {
     "container": {
@@ -12,4 +12,3 @@
     }
   }
 }
-

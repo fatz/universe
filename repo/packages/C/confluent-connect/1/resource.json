@@ -7,8 +7,8 @@
     }
   },
   "images": {
-    "icon-small": "https://s3-us-west-2.amazonaws.com/confluent-mesos-devel/ConfIcon_small.png",
-    "icon-medium": "https://s3-us-west-2.amazonaws.com/confluent-mesos-devel/ConfIcon_medium.png",
-    "icon-large": "https://s3-us-west-2.amazonaws.com/confluent-mesos-devel/ConfIcon_large.png"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/confluent-connect/icon/26/60/26608df4ae46cb53912f553d0cf5c96458b68db6a3f49d235ed7ca7e8d0a49f5/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/confluent-connect/icon/26/60/26608df4ae46cb53912f553d0cf5c96458b68db6a3f49d235ed7ca7e8d0a49f5/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/confluent-connect/icon/26/60/26608df4ae46cb53912f553d0cf5c96458b68db6a3f49d235ed7ca7e8d0a49f5/large.png"
   }
 }

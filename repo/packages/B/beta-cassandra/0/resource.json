@@ -10,9 +10,9 @@
     }
   },
   "images": {
-    "icon-small": "https://downloads.mesosphere.com/cassandra-mesos/assets/cassandra-small.png",
-    "icon-medium": "https://downloads.mesosphere.com/cassandra-mesos/assets/cassandra-medium.png",
-    "icon-large": "https://downloads.mesosphere.com/cassandra-mesos/assets/cassandra-large.png"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/beta-cassandra/icon/87/a3/87a39c4022dfbae8b8b16c00ad63899431b8eadc0d3a79781cd45b8bf888289b/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/beta-cassandra/icon/87/a3/87a39c4022dfbae8b8b16c00ad63899431b8eadc0d3a79781cd45b8bf888289b/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/beta-cassandra/icon/87/a3/87a39c4022dfbae8b8b16c00ad63899431b8eadc0d3a79781cd45b8bf888289b/large.png"
   },
   "cli": {
     "binaries": {

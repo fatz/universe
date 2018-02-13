@@ -1,8 +1,8 @@
 {
   "images": {
-    "icon-small": "https://s3.amazonaws.com/downloads.kong/universe/assets/icon-kong-inc-small.png",
-    "icon-medium": "https://s3.amazonaws.com/downloads.kong/universe/assets/icon-kong-inc-medium.png",
-    "icon-large": "https://s3.amazonaws.com/downloads.kong/universe/assets/icon-kong-inc-large.png"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/kong/icon/7f/37/7f37070c998028c95cc4f11271a4e2c24eb9a397269314449da015bfb0a5dd79/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/kong/icon/7f/37/7f37070c998028c95cc4f11271a4e2c24eb9a397269314449da015bfb0a5dd79/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/kong/icon/7f/37/7f37070c998028c95cc4f11271a4e2c24eb9a397269314449da015bfb0a5dd79/large.png"
   },
   "assets": {
     "container": {

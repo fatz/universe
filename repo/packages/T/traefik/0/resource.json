@@ -6,8 +6,8 @@
     }
   },
   "images": {
-    "icon-small": "https://raw.githubusercontent.com/deric/dcos-traefik/master/icons/traefik-small.png",
-    "icon-medium": "https://raw.githubusercontent.com/deric/dcos-traefik/master/icons/traefik-medium.png",
-    "icon-large": "https://raw.githubusercontent.com/deric/dcos-traefik/master/icons/traefik-large.png"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/traefik/icon/85/f4/85f46446fce3416106d0108a35cf447d8a015c869c1f884991d3670b893babaf/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/traefik/icon/85/f4/85f46446fce3416106d0108a35cf447d8a015c869c1f884991d3670b893babaf/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/traefik/icon/85/f4/85f46446fce3416106d0108a35cf447d8a015c869c1f884991d3670b893babaf/large.png"
   }
 }

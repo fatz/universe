@@ -1,8 +1,8 @@
 {
   "images": {
-    "icon-small": "https://downloads.mesosphere.com/universe/assets/icon-service-wordpress-small.png",
-    "icon-medium": "https://downloads.mesosphere.com/universe/assets/icon-service-wordpress-medium.png",
-    "icon-large": "https://downloads.mesosphere.com/universe/assets/icon-service-wordpress-large.png"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/wordpress/icon/7e/4e/7e4ed9d9794e2f6e71901a926cf0125177e60603aa21f02de66b9da91fbcb695/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/wordpress/icon/7e/4e/7e4ed9d9794e2f6e71901a926cf0125177e60603aa21f02de66b9da91fbcb695/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/wordpress/icon/7e/4e/7e4ed9d9794e2f6e71901a926cf0125177e60603aa21f02de66b9da91fbcb695/large.png"
   },
   "assets": {
     "container": {

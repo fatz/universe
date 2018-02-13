@@ -7,8 +7,8 @@
     }
   },
   "images": {
-    "icon-small": "https://downloads.mesosphere.com/universe/assets/icon-service-chronos-small.png",
-    "icon-medium": "https://downloads.mesosphere.com/universe/assets/icon-service-chronos-medium.png",
-    "icon-large": "https://downloads.mesosphere.com/universe/assets/icon-service-chronos-large.png"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/chronos/icon/8d/0e/8d0ed2f8b9e146b5da1d525571581f902082fbf27fce4b2b724b55945e9c9178/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/chronos/icon/8d/0e/8d0ed2f8b9e146b5da1d525571581f902082fbf27fce4b2b724b55945e9c9178/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/chronos/icon/8d/0e/8d0ed2f8b9e146b5da1d525571581f902082fbf27fce4b2b724b55945e9c9178/large.png"
   }
 }

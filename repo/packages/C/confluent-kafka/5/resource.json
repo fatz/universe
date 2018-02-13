@@ -1,16 +1,16 @@
 {
-    "assets": {
-        "uris": {
-            "jre-tar-gz": "https://downloads.mesosphere.com/kafka/assets/jre-8u91-linux-x64.tar.gz",
-            "kafka_tgz": "https://s3-us-west-2.amazonaws.com/confluent-mesos-devel/confluent-3.0.0-mesos.tgz",
-            "scheduler-zip": "https://downloads.mesosphere.com/kafka/assets/1.1.9-0.10.0.0/scheduler.zip",
-            "executor-zip": "https://downloads.mesosphere.com/kafka/assets/1.1.9-0.10.0.0/executor.zip",
-            "overrider-zip": "https://downloads.mesosphere.com/kafka/assets/1.1.9-0.10.0.0/overrider.zip"
-        }
-    },
-    "images": {
-        "icon-small": "https://s3-us-west-2.amazonaws.com/confluent-mesos-devel/ConfIcon_small.png",
-        "icon-medium": "https://s3-us-west-2.amazonaws.com/confluent-mesos-devel/ConfIcon_medium.png",
-        "icon-large": "https://s3-us-west-2.amazonaws.com/confluent-mesos-devel/ConfIcon_large.png"
+  "assets": {
+    "uris": {
+      "jre-tar-gz": "https://downloads.mesosphere.com/kafka/assets/jre-8u91-linux-x64.tar.gz",
+      "kafka_tgz": "https://s3-us-west-2.amazonaws.com/confluent-mesos-devel/confluent-3.0.0-mesos.tgz",
+      "scheduler-zip": "https://downloads.mesosphere.com/kafka/assets/1.1.9-0.10.0.0/scheduler.zip",
+      "executor-zip": "https://downloads.mesosphere.com/kafka/assets/1.1.9-0.10.0.0/executor.zip",
+      "overrider-zip": "https://downloads.mesosphere.com/kafka/assets/1.1.9-0.10.0.0/overrider.zip"
     }
+  },
+  "images": {
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/confluent-kafka/icon/de/f8/def8c6ad008dfc1de4331feaabbf2e45fd32dc5706fd1b6c91edd243a0103b85/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/confluent-kafka/icon/de/f8/def8c6ad008dfc1de4331feaabbf2e45fd32dc5706fd1b6c91edd243a0103b85/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/confluent-kafka/icon/de/f8/def8c6ad008dfc1de4331feaabbf2e45fd32dc5706fd1b6c91edd243a0103b85/large.png"
+  }
 }

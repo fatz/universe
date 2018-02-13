@@ -10,9 +10,9 @@
     }
   },
   "images": {
-    "icon-small": "https://downloads.mesosphere.com/hdfs/assets/icon-service-hdfs-small.png",
-    "icon-medium": "https://downloads.mesosphere.com/hdfs/assets/icon-service-hdfs-medium.png",
-    "icon-large": "https://downloads.mesosphere.com/hdfs/assets/icon-service-hdfs-large.png"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/beta-hdfs/icon/19/57/1957d2339feab7d2783efa155571bb9df236335b138e2bd5a2eec492e8924987/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/beta-hdfs/icon/19/57/1957d2339feab7d2783efa155571bb9df236335b138e2bd5a2eec492e8924987/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/beta-hdfs/icon/19/57/1957d2339feab7d2783efa155571bb9df236335b138e2bd5a2eec492e8924987/large.png"
   },
   "cli": {
     "binaries": {

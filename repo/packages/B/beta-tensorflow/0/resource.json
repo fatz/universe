@@ -10,9 +10,9 @@
     }
   },
   "images": {
-    "icon-small": "https://downloads.mesosphere.com/tensorflow-dcos/img/tensorflow-small.jpg",
-    "icon-medium": "https://downloads.mesosphere.com/tensorflow-dcos/img/tensorflow-medium.jpg",
-    "icon-large": "https://downloads.mesosphere.com/tensorflow-dcos/img/tensorflow-large.jpg"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/beta-tensorflow/icon/93/91/93919adaa936e4da59fe1b670afb43dbdec3de101c42e0a425b4d0328d959468/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/beta-tensorflow/icon/93/91/93919adaa936e4da59fe1b670afb43dbdec3de101c42e0a425b4d0328d959468/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/beta-tensorflow/icon/93/91/93919adaa936e4da59fe1b670afb43dbdec3de101c42e0a425b4d0328d959468/large.png"
   },
   "cli": {
     "binaries": {

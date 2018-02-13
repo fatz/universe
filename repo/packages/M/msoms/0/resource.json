@@ -7,8 +7,8 @@
     }
   },
   "images": {
-    "icon-small": "https://apk-dl.com/detail/image/com.microsoft.operations.AndroidPhone-w70.png",
-    "icon-medium": "https://apk-dl.com/detail/image/com.microsoft.operations.AndroidPhone-w70.png",
-    "icon-large": "https://apk-dl.com/detail/image/com.microsoft.operations.AndroidPhone-w70.png"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/msoms/icon/4c/8c/4c8c0c5fa2e7c19e2babef95c8b8138280408b58c6f5663949327b42ba56bf75/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/msoms/icon/4c/8c/4c8c0c5fa2e7c19e2babef95c8b8138280408b58c6f5663949327b42ba56bf75/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/msoms/icon/4c/8c/4c8c0c5fa2e7c19e2babef95c8b8138280408b58c6f5663949327b42ba56bf75/large.png"
   }
 }

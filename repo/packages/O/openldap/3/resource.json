@@ -1,8 +1,8 @@
-  {
+{
   "images": {
-    "icon-small": "https://s3.amazonaws.com/downloads.mesosphere.io/universe/assets/icon-service-openldap-small.png",
-    "icon-medium": "https://s3.amazonaws.com/downloads.mesosphere.io/universe/assets/icon-service-openldap-medium.png",
-    "icon-large": "https://s3.amazonaws.com/downloads.mesosphere.io/universe/assets/icon-service-openldap-large.png"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/openldap/icon/45/4e/454e186782e870ef24a26949adabcf10f928971e795a3c16dfd4cd22a1bcb981/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/openldap/icon/45/4e/454e186782e870ef24a26949adabcf10f928971e795a3c16dfd4cd22a1bcb981/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/openldap/icon/45/4e/454e186782e870ef24a26949adabcf10f928971e795a3c16dfd4cd22a1bcb981/large.png"
   },
   "assets": {
     "container": {

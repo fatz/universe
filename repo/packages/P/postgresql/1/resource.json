@@ -1,8 +1,8 @@
 {
   "images": {
-    "icon-small": "https://s3.amazonaws.com/downloads.mesosphere.io/universe/assets/icon-service-postgresql-small.png",
-    "icon-medium": "https://s3.amazonaws.com/downloads.mesosphere.io/universe/assets/icon-service-postgresql-medium.png",
-    "icon-large": "https://s3.amazonaws.com/downloads.mesosphere.io/universe/assets/icon-service-postgresql-large.png"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/postgresql/icon/ab/29/ab29781b38d9fb036c69977bd217e79ea916eee69c60c1b7d567e170dee42188/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/postgresql/icon/ab/29/ab29781b38d9fb036c69977bd217e79ea916eee69c60c1b7d567e170dee42188/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/postgresql/icon/ab/29/ab29781b38d9fb036c69977bd217e79ea916eee69c60c1b7d567e170dee42188/large.png"
   },
   "assets": {
     "container": {

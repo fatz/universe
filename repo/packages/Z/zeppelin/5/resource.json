@@ -1,8 +1,8 @@
 {
   "images": {
-    "icon-small": "https://downloads.mesosphere.com/zeppelin/assets/icon-service-zeppelin-small.png",
-    "icon-medium": "https://downloads.mesosphere.com/zeppelin/assets/icon-service-zeppelin-medium.png",
-    "icon-large": "https://downloads.mesosphere.com/zeppelin/assets/icon-service-zeppelin-large.png"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/zeppelin/icon/c8/22/c82286d541b3fbaf556167783d539e85006d8eed43c549698d39119a5250d37a/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/zeppelin/icon/c8/22/c82286d541b3fbaf556167783d539e85006d8eed43c549698d39119a5250d37a/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/zeppelin/icon/c8/22/c82286d541b3fbaf556167783d539e85006d8eed43c549698d39119a5250d37a/large.png"
   },
   "assets": {
     "container": {

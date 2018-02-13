@@ -1,11 +1,11 @@
 {
   "images": {
-    "icon-small": "https://s3.amazonaws.com/downloads.mesosphere.io/universe/assets/icon-service-influxdb-small.png",
-    "icon-medium": "https://s3.amazonaws.com/downloads.mesosphere.io/universe/assets/icon-service-influxdb-medium.png",
-    "icon-large": "https://s3.amazonaws.com/downloads.mesosphere.io/universe/assets/icon-service-influxdb-large.png",
-     "screenshots": [
-     "https://raw.githubusercontent.com/Kentik/docker-monitor/master/screenshots/influxdb-screenshot.png"
-   ]
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/influxdb/icon/89/e8/89e8ab3eeddf6fa9ee2a8a4f193a74e976aa85f8ecc6cf1cbf88223ce45cfb5a/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/influxdb/icon/89/e8/89e8ab3eeddf6fa9ee2a8a4f193a74e976aa85f8ecc6cf1cbf88223ce45cfb5a/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/influxdb/icon/89/e8/89e8ab3eeddf6fa9ee2a8a4f193a74e976aa85f8ecc6cf1cbf88223ce45cfb5a/large.png",
+    "screenshots": [
+      "https://raw.githubusercontent.com/Kentik/docker-monitor/master/screenshots/influxdb-screenshot.png"
+    ]
   },
   "assets": {
     "container": {

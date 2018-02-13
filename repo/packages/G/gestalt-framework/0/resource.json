@@ -1,8 +1,8 @@
 {
   "images": {
-    "icon-large": "https://s3.amazonaws.com/gfi.misc/Gestalt-Icon-Large.png",
-    "icon-medium": "https://s3.amazonaws.com/gfi.misc/Gestalt-Icon-Medium.png",
-    "icon-small": "https://s3.amazonaws.com/gfi.misc/Gestalt-Icon-Small.png"
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/gestalt-framework/icon/22/d9/22d910d8d3d3759e192009431b0b709f07df3a130e8bdfaa1b8ea537166f5af2/large.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/gestalt-framework/icon/22/d9/22d910d8d3d3759e192009431b0b709f07df3a130e8bdfaa1b8ea537166f5af2/medium.png",
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/gestalt-framework/icon/22/d9/22d910d8d3d3759e192009431b0b709f07df3a130e8bdfaa1b8ea537166f5af2/small.png"
   },
   "assets": {
     "container": {
@@ -20,7 +20,6 @@
         "gestalt-ui": "galacticfog.artifactoryonline.com/gestalt-ui:0.8.1-8ef1fbf5"
       }
     },
-    "uris": {
-    }
+    "uris": {}
   }
 }

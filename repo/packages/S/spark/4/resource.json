@@ -7,8 +7,8 @@
     }
   },
   "images": {
-    "icon-small": "https://downloads.mesosphere.com/universe/assets/icon-service-spark-small.png",
-    "icon-medium": "https://downloads.mesosphere.com/universe/assets/icon-service-spark-medium.png",
-    "icon-large": "https://downloads.mesosphere.com/universe/assets/icon-service-spark-large.png"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/spark/icon/2c/e7/2ce71e91abdfe19d9fba47309c0bc28e89d760d908dd61922e1e3d5057fff0b9/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/spark/icon/2c/e7/2ce71e91abdfe19d9fba47309c0bc28e89d760d908dd61922e1e3d5057fff0b9/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/spark/icon/2c/e7/2ce71e91abdfe19d9fba47309c0bc28e89d760d908dd61922e1e3d5057fff0b9/large.png"
   }
 }

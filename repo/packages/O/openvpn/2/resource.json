@@ -1,8 +1,8 @@
 {
   "images": {
-    "icon-small": "https://downloads.mesosphere.com/universe/assets/icon-service-openvpn-small.png",
-    "icon-medium": "https://downloads.mesosphere.com/universe/assets/icon-service-openvpn-medium.png",
-    "icon-large": "https://downloads.mesosphere.com/universe/assets/icon-service-openvpn-large.png"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/openvpn/icon/64/2c/642ccea8359beb009d8645723bc826a9d8a084a1255f0d663d2fe40abb40bbc1/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/openvpn/icon/64/2c/642ccea8359beb009d8645723bc826a9d8a084a1255f0d663d2fe40abb40bbc1/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/openvpn/icon/64/2c/642ccea8359beb009d8645723bc826a9d8a084a1255f0d663d2fe40abb40bbc1/large.png"
   },
   "assets": {
     "container": {

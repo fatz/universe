@@ -1,8 +1,8 @@
 {
   "images": {
-    "icon-small": "https://downloads.mesosphere.com/universe/assets/icon-service-quobyte-small.png",
-    "icon-medium": "https://downloads.mesosphere.com/universe/assets/icon-service-quobyte-medium.png",
-    "icon-large": "https://downloads.mesosphere.com/universe/assets/icon-service-quobyte-large.png",
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/quobyte/icon/21/79/21796da76c834cf6ffb8d7bac6b7b52f7b1a870f1e738b64dbf20bcad225c245/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/quobyte/icon/21/79/21796da76c834cf6ffb8d7bac6b7b52f7b1a870f1e738b64dbf20bcad225c245/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/quobyte/icon/21/79/21796da76c834cf6ffb8d7bac6b7b52f7b1a870f1e738b64dbf20bcad225c245/large.png",
     "screenshots": [
       "https://www.quobyte.com/mesos/screen-1.png",
       "https://www.quobyte.com/mesos/screen-2.png",

@@ -1,8 +1,8 @@
 {
   "images": {
-    "icon-small": "https://s3.amazonaws.com/docs.netsil.com/logos/netsilsquare-48x48.png",
-    "icon-medium": "https://s3.amazonaws.com/docs.netsil.com/logos/netsilsquare-96x96.png",
-    "icon-large": "https://s3.amazonaws.com/docs.netsil.com/logos/netsilsquare-256x256.png"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/netsil-collectors/icon/ee/73/ee73cbd75ed00e31fce1219e2fbaf789caf06eb48dbc43abef205d63b67ec639/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/netsil-collectors/icon/ee/73/ee73cbd75ed00e31fce1219e2fbaf789caf06eb48dbc43abef205d63b67ec639/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/netsil-collectors/icon/ee/73/ee73cbd75ed00e31fce1219e2fbaf789caf06eb48dbc43abef205d63b67ec639/large.png"
   },
   "assets": {
     "container": {

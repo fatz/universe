@@ -1,13 +1,13 @@
 {
   "images": {
-    "icon-small": "https://storage.googleapis.com/dcos-release/icon-small.png",
-    "icon-medium": "https://storage.googleapis.com/dcos-release/icon-medium.png",
-    "icon-large": "https://storage.googleapis.com/dcos-release/icon-large.png"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/concord/icon/8f/06/8f06f2537bbd46451334b02eaf51b80182801edf80dd6078f8f38708c6de028c/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/concord/icon/8f/06/8f06f2537bbd46451334b02eaf51b80182801edf80dd6078f8f38708c6de028c/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/concord/icon/8f/06/8f06f2537bbd46451334b02eaf51b80182801edf80dd6078f8f38708c6de028c/large.png"
   },
   "assets": {
     "container": {
       "docker": {
-	"bfb2a74c4941": "concord/scheduler:0.3.16.4"
+        "bfb2a74c4941": "concord/scheduler:0.3.16.4"
       }
     }
   }

@@ -1,8 +1,8 @@
 {
   "images": {
-    "icon-small": "https://s3.amazonaws.com/downloads.mesosphere.io/universe/assets/icon-service-mysql-small.png",
-    "icon-medium": "https://s3.amazonaws.com/downloads.mesosphere.io/universe/assets/icon-service-mysql-medium.jpg",
-    "icon-large": "https://s3.amazonaws.com/downloads.mesosphere.io/universe/assets/icon-service-mysql-large.jpg"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/mysql/icon/d2/ac/d2ac4fe62de2aa7cacf92d741fed228077060468e2b662af8074bbcfb9fab003/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/mysql/icon/d2/ac/d2ac4fe62de2aa7cacf92d741fed228077060468e2b662af8074bbcfb9fab003/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/mysql/icon/d2/ac/d2ac4fe62de2aa7cacf92d741fed228077060468e2b662af8074bbcfb9fab003/large.png"
   },
   "assets": {
     "container": {

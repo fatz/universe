@@ -6,8 +6,8 @@
     }
   },
   "images": {
-    "icon-small": "https://static-www.elastic.co/assets/blt282ae2420e32fc38/icon-kibana-bb.svg",
-    "icon-medium": "https://static-www.elastic.co/assets/blt282ae2420e32fc38/icon-kibana-bb.svg",
-    "icon-large": "https://static-www.elastic.co/assets/blt282ae2420e32fc38/icon-kibana-bb.svg"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/kibana/icon/a2/a3/a2a371d32d0594e7c77d7845193e7c4879a82aa43ec1e995db5b95a98fb7b167/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/kibana/icon/a2/a3/a2a371d32d0594e7c77d7845193e7c4879a82aa43ec1e995db5b95a98fb7b167/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/kibana/icon/a2/a3/a2a371d32d0594e7c77d7845193e7c4879a82aa43ec1e995db5b95a98fb7b167/large.png"
   }
 }

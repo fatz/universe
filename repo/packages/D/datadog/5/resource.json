@@ -7,8 +7,8 @@
     }
   },
   "images": {
-    "icon-small": "https://downloads.mesosphere.com/universe/assets/icon-service-datadog-small.png",
-    "icon-medium": "https://downloads.mesosphere.com/universe/assets/icon-service-datadog-medium.png",
-    "icon-large": "https://downloads.mesosphere.com/universe/assets/icon-service-datadog-large.png"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/datadog/icon/4b/00/4b00c99ed71ed78b3c1844592fdc99c0c3e0055e9f3a8226a82d8afc7da1aa3c/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/datadog/icon/4b/00/4b00c99ed71ed78b3c1844592fdc99c0c3e0055e9f3a8226a82d8afc7da1aa3c/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/datadog/icon/4b/00/4b00c99ed71ed78b3c1844592fdc99c0c3e0055e9f3a8226a82d8afc7da1aa3c/large.png"
   }
 }

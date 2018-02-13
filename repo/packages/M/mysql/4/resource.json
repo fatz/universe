@@ -1,8 +1,8 @@
 {
   "images": {
-    "icon-small": "http://enitedinternational.com/img/icons/icon/mysql-icon.png",
-    "icon-medium": "http://www.ebexsoft.com/images/icons/mysql.jpg",
-    "icon-large": "http://michaelglesenkamp.com/images/icons/icon-mysql.jpg"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/mysql/icon/d2/ac/d2ac4fe62de2aa7cacf92d741fed228077060468e2b662af8074bbcfb9fab003/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/mysql/icon/d2/ac/d2ac4fe62de2aa7cacf92d741fed228077060468e2b662af8074bbcfb9fab003/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/mysql/icon/d2/ac/d2ac4fe62de2aa7cacf92d741fed228077060468e2b662af8074bbcfb9fab003/large.png"
   },
   "assets": {
     "container": {

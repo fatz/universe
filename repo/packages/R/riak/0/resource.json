@@ -1,8 +1,8 @@
 {
   "images": {
-    "icon-small": "https://downloads.mesosphere.com/universe/assets/icon-service-riak-small.png",
-    "icon-medium": "https://downloads.mesosphere.com/universe/assets/icon-service-riak-medium.png",
-    "icon-large": "https://downloads.mesosphere.com/universe/assets/icon-service-riak-large.png",
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/riak/icon/b9/b4/b9b46859e673f8feb907afde6c4e451e6ffad5ca3aa1f6a1a6c89d15ac448b91/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/riak/icon/b9/b4/b9b46859e673f8feb907afde6c4e451e6ffad5ca3aa1f6a1a6c89d15ac448b91/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/riak/icon/b9/b4/b9b46859e673f8feb907afde6c4e451e6ffad5ca3aa1f6a1a6c89d15ac448b91/large.png",
     "screenshots": [
       "http://riak-tools.s3.amazonaws.com/riak-mesos/riak-mesos-screenshot.png"
     ]

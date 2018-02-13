@@ -12,8 +12,8 @@
     }
   },
   "images": {
-    "icon-small": "https://downloads.mesosphere.com/universe/assets/icon-service-hue-small.png",
-    "icon-medium": "https://downloads.mesosphere.com/universe/assets/icon-service-hue-medium.png",
-    "icon-large": "https://downloads.mesosphere.com/universe/assets/icon-service-hue-large.png"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/hue/icon/fa/87/fa876a9ca4db72e8ae1517c870ede0ffa8e0d803b6fef9d710e8279d7fee5970/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/hue/icon/fa/87/fa876a9ca4db72e8ae1517c870ede0ffa8e0d803b6fef9d710e8279d7fee5970/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/hue/icon/fa/87/fa876a9ca4db72e8ae1517c870ede0ffa8e0d803b6fef9d710e8279d7fee5970/large.png"
   }
 }

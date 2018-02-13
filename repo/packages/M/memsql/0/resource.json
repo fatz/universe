@@ -7,8 +7,8 @@
     }
   },
   "images": {
-    "icon-small": "https://downloads.mesosphere.com/universe/assets/icon-service-memsql-small.png",
-    "icon-medium": "https://downloads.mesosphere.com/universe/assets/icon-service-memsql-medium.png",
-    "icon-large": "https://downloads.mesosphere.com/universe/assets/icon-service-memsql-large.png"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/memsql/icon/ff/21/ff213e519397163ab49bd66cb1c6d50da5821075d666114028b7ede252944911/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/memsql/icon/ff/21/ff213e519397163ab49bd66cb1c6d50da5821075d666114028b7ede252944911/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/memsql/icon/ff/21/ff213e519397163ab49bd66cb1c6d50da5821075d666114028b7ede252944911/large.png"
   }
 }

@@ -1,9 +1,11 @@
 {
   "images": {
-    "icon-small": "https://raw.githubusercontent.com/magneticio/vamp.io/master/static/img/icon-service-vamp-small.png",
-    "icon-medium": "https://raw.githubusercontent.com/magneticio/vamp.io/master/static/img/icon-service-vamp-medium.png",
-    "icon-large": "https://raw.githubusercontent.com/magneticio/vamp.io/master/static/img/icon-service-vamp-large.png",
-    "screenshots": ["https://raw.githubusercontent.com/magneticio/vamp.io/master/static/img/screenshots-service-vamp.png"]
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/vamp/icon/e1/a8/e1a8c7522fa7bbef61dfdfb692ed1bfb60aca8d5b750fe307bdd08f4a2296dbb/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/vamp/icon/e1/a8/e1a8c7522fa7bbef61dfdfb692ed1bfb60aca8d5b750fe307bdd08f4a2296dbb/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/vamp/icon/e1/a8/e1a8c7522fa7bbef61dfdfb692ed1bfb60aca8d5b750fe307bdd08f4a2296dbb/large.png",
+    "screenshots": [
+      "https://raw.githubusercontent.com/magneticio/vamp.io/master/static/img/screenshots-service-vamp.png"
+    ]
   },
   "assets": {
     "container": {

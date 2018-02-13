@@ -1,8 +1,8 @@
 {
   "images": {
-    "icon-small": "https://secure.gravatar.com/avatar/6edd0acaf80f784fab3dd2c31d604e74.jpg?s=40&r=g&d=mm",
-    "icon-medium": "https://secure.gravatar.com/avatar/6edd0acaf80f784fab3dd2c31d604e74.jpg?s=80&r=g&d=mm",
-    "icon-large": "https://secure.gravatar.com/avatar/6edd0acaf80f784fab3dd2c31d604e74.jpg?s=200&r=g&d=mm"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/gitlab/icon/ba/28/ba28962ebbcf87d68fdc204f07fa06b41020a7e4b7daedb098abe95528cd9205/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/gitlab/icon/ba/28/ba28962ebbcf87d68fdc204f07fa06b41020a7e4b7daedb098abe95528cd9205/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/gitlab/icon/ba/28/ba28962ebbcf87d68fdc204f07fa06b41020a7e4b7daedb098abe95528cd9205/large.png"
   },
   "assets": {
     "container": {

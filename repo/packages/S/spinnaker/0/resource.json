@@ -21,9 +21,9 @@
     }
   },
   "images": {
-    "icon-small": "https://s3-us-west-1.amazonaws.com/mbgl-bucket/spinnaker/assets/spin-small.png",
-    "icon-medium": "https://s3-us-west-1.amazonaws.com/mbgl-bucket/spinnaker/assets/spin-medium.png",
-    "icon-large": "https://s3-us-west-1.amazonaws.com/mbgl-bucket/spinnaker/assets/spin-large.png"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/spinnaker/icon/b0/f3/b0f3acac88a4cb794c6a1277c2edc566354c8bd36bdc00a87db129d35cf65f2d/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/spinnaker/icon/b0/f3/b0f3acac88a4cb794c6a1277c2edc566354c8bd36bdc00a87db129d35cf65f2d/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/spinnaker/icon/b0/f3/b0f3acac88a4cb794c6a1277c2edc566354c8bd36bdc00a87db129d35cf65f2d/large.png"
   },
   "cli": {
     "binaries": {

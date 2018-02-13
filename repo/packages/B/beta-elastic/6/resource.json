@@ -14,9 +14,9 @@
     }
   },
   "images": {
-    "icon-small": "https://downloads.mesosphere.com/universe/assets/elasticsearch-small.png",
-    "icon-medium": "https://downloads.mesosphere.com/universe/assets/elasticsearch-medium.png",
-    "icon-large": "https://downloads.mesosphere.com/universe/assets/elasticsearch-large.png"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/beta-elastic/icon/30/f0/30f0e56aa9e81b17ac708dcc4c34428a8fe32609986b228d86c856f37dda1000/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/beta-elastic/icon/30/f0/30f0e56aa9e81b17ac708dcc4c34428a8fe32609986b228d86c856f37dda1000/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/beta-elastic/icon/30/f0/30f0e56aa9e81b17ac708dcc4c34428a8fe32609986b228d86c856f37dda1000/large.png"
   },
   "cli": {
     "binaries": {

@@ -15,9 +15,9 @@
     }
   },
   "images": {
-    "icon-small": "https://s3-us-west-1.amazonaws.com/dcos-dse-pkg/image/DS_Small.jpg",
-    "icon-medium": "https://s3-us-west-1.amazonaws.com/dcos-dse-pkg/image/DS_Medium.jpg",
-    "icon-large": "https://s3-us-west-1.amazonaws.com/dcos-dse-pkg/image/DS_Big.png"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/beta-datastax-ops/icon/e2/e5/e2e5d7a698bfa5ab1cab839dc659c131691f381e5aa0a58d8f9173f7fe0f0721/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/beta-datastax-ops/icon/e2/e5/e2e5d7a698bfa5ab1cab839dc659c131691f381e5aa0a58d8f9173f7fe0f0721/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/beta-datastax-ops/icon/e2/e5/e2e5d7a698bfa5ab1cab839dc659c131691f381e5aa0a58d8f9173f7fe0f0721/large.png"
   },
   "cli": {
     "binaries": {

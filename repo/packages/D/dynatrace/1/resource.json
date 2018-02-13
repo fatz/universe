@@ -1,8 +1,8 @@
 {
   "images": {
-    "icon-small": "https://assets.dynatrace.com/global/resources/Signet_Logo_RGB_CP_48x48px.png",
-    "icon-medium": "https://assets.dynatrace.com/global/resources/Signet_Logo_RGB_CP_96x96px.png",
-    "icon-large": "https://assets.dynatrace.com/global/resources/Signet_Logo_RGB_CP_256x256px.png"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/dynatrace/icon/0d/a6/0da649846c495e546a56bbcf8dd84d4b6ec0edc70558032d97501fead0249ca1/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/dynatrace/icon/0d/a6/0da649846c495e546a56bbcf8dd84d4b6ec0edc70558032d97501fead0249ca1/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/dynatrace/icon/0d/a6/0da649846c495e546a56bbcf8dd84d4b6ec0edc70558032d97501fead0249ca1/large.png"
   },
   "assets": {
     "container": {

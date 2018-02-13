@@ -7,8 +7,8 @@
     }
   },
   "images": {
-    "icon-small": "http://bookkeeper.apache.org/img/bookkeeper_blk40.png",
-    "icon-medium": "http://bookkeeper.apache.org/img/bookkeeper_blk40.png",
-    "icon-large": "http://bookkeeper.apache.org/img/bk-logo.png"
+    "icon-small": "https://downloads.mesosphere.com/assets/universe/bookkeeper/icon/59/5e/595e4e3b38feb44ea7b6b706d580026a6e01ee718643b00ad0becfcb019fb849/small.png",
+    "icon-medium": "https://downloads.mesosphere.com/assets/universe/bookkeeper/icon/59/5e/595e4e3b38feb44ea7b6b706d580026a6e01ee718643b00ad0becfcb019fb849/medium.png",
+    "icon-large": "https://downloads.mesosphere.com/assets/universe/bookkeeper/icon/59/5e/595e4e3b38feb44ea7b6b706d580026a6e01ee718643b00ad0becfcb019fb849/large.png"
   }
 }
